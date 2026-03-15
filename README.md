@@ -1,11 +1,8 @@
 # Save Your Peepers | Бережем глазки (20-20-20 Timer)
 
-*[Read in English](#english) | [Читать на русском](#русский)*
-
----
-
 <a id="english"></a>
-## 🇬🇧 English
+<details>
+<summary><h2>🇬🇧 English (Click to expand / collapse)</h2></summary>
 
 A smart, customizable, and slightly strict timer to protect your eyes using the famous **20-20-20 rule**: *Every 20 minutes, look at something 20 feet away for 20 seconds.* Perfect for developers, gamers, and anyone who spends hours staring at a screen.
 
@@ -30,11 +27,11 @@ Click the **"Settings"** button in the app to change:
 * **Warning Corner:** Choose where the 10-second warning pops up (Bottom Right, Top Left, etc.).
 * **Hotkeys:** Click the button and press your preferred key combination.
 * **Theme & Language:** Dark/Light mode and EN/RU localization.
-
----
+</details>
 
 <a id="русский"></a>
-## 🇷🇺 Русский
+<details>
+<summary><h2>🇷🇺 Русский (Нажми, чтобы развернуть / свернуть)</h2></summary>
 
 Умный, настраиваемый и в меру бесячий таймер для защиты зрения по знаменитому правилу **20-20-20**: *Каждые 20 минут отрывайся от экрана и смотри вдаль на 20 футов (6 метров) в течение 20 секунд.* Идеально для программистов, геймеров и всех, кто живет за компом.
 
@@ -59,9 +56,7 @@ Click the **"Settings"** button in the app to change:
 * **Предупреждения:** Выбери, в каком углу будет появляться окно "Скоро отдых".
 * **Хоткеи:** Нажми на кнопку настройки и введи любую свою комбинацию клавиш.
 * **Внешний вид:** Темная/Светлая тема и переключение языков (RU/EN).
+</details>
 
----
+<img width="399" height="557" alt="Image" src="https://github.com/user-attachments/assets/8e22f82a-777c-4b8a-89ab-ccb28163f62b" /> <img width="385" height="693" alt="Image" src="https://github.com/user-attachments/assets/b37ab0f6-d8bd-4448-9e42-dd429d242954" />
 
-![alt text](image-url)
-
-*Built with Python, customtkinter, and care for your eyes.* 
